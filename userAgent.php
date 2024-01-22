@@ -1,5 +1,4 @@
 <?php
-namespace Peterujah\NanoBlock;
 /**
  * https://github.com/phpfail/UserAgentGenerator
  * Generate hundreds of thousands of unique mobile & desktop User Agents that are 100% authentic.
